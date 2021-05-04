@@ -14,5 +14,11 @@ title: Work Log
 * **Thursday**:
   * Got more software installed on new computer to get ready to work.
   * Got GitHub site up and running.
-* **Friday**:
 
+### Week 2: May 3, 2021
+
+* **Monday**:
+  * Read abstracts for the following theses:
+    * _Configuration Scrubbing Architectures for High-Reliability FPGA Systems_ - Aaron G. Stoddard
+    * _High Throughput FPGA Configuration Using a Custom DMA Configuration Controller_ - Peter W. Zabriskie
+    * _Neutron Beam Testing Methodology and Results for a Complex Programmable Multiprocessor SoC_ - Jordan D. Anderson
