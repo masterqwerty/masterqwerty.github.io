@@ -22,3 +22,4 @@ title: Work Log
     * _Configuration Scrubbing Architectures for High-Reliability FPGA Systems_ - Aaron G. Stoddard
     * _High Throughput FPGA Configuration Using a Custom DMA Configuration Controller_ - Peter W. Zabriskie
     * _Neutron Beam Testing Methodology and Results for a Complex Programmable Multiprocessor SoC_ - Jordan D. Anderson
+  * Updated some Jekyll dependencies to resolve dependabot alerts.
