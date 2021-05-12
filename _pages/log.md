@@ -2,40 +2,90 @@
 layout: default
 title: Work Log
 ---
+<h3 class="collapsible">Week 3: May 10, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+    <ul>
+      <li>Finish reading <em>Configuration Scrubbing Architectures for High-Reliability FPGA Systems</em></li>
+      <li>Get Xilinx Tools set up on research machine</li>
+      <li>Possibly rebuild Linux kernel for Ultra96v1 and update documentation where necessary.</li>
+    </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+    <ul>
+      <li><strong>Tuesday</strong>:
+        <ul>
+          <li>Got Vivado and PetaLinux 2019.2 set up on research computer.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
-### Week 3: May 10, 2021
+<h3 class="collapsible">Week 2: May 3, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+    <ul>
+      <li><strong>Monday</strong>:
+        <ul>
+          <li>Read abstracts for the following theses:
+            <ul>
+              <li><em>Configuration Scrubbing Architectures for High-Reliability FPGA Systems</em> - Aaron G. Stoddard</li>
+              <li><em>High Throughput FPGA Configuration Using a Custom DMA Configuration Controller</em> - Peter W. Zabriskie</li>
+              <li><em>Neutron Beam Testing Methodology and Results for a Complex Programmable Multiprocessor SoC</em> - Jordan D. Anderson</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
-#### Goals
+<h3 class="collapsible">Week 1: April 26, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+    <ul>
+      <li><strong>Monday</strong>:
+        <ul>
+          <li>Met with Dr. Wirthlin to discuss project for the fall, as well as went to IMMERSE orientation meeting.</li>
+        </ul>
+      </li>
+      <li><strong>Tuesday</strong>:
+        <ul>
+          <li>Went through MPSoC notes that I wrote from last year.</li>
+        </ul>
+      </li>
+      <li><strong>Wednesday</strong>:
+        <ul>
+          <li>Got Ubuntu installed on new computer in graduate student office.</li>
+        </ul>
+      </li>
+      <li><strong>Thursday</strong>:
+        <ul>
+          <li>Got more software installed on new computer to get ready to work.</li>
+          <li>Got GitHub site up and running.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
-* Finish reading _Configuration Scrubbing Architectures for High-Reliability FPGA Systems_
-* Get Xilinx Tools set up on research machine
-* Possibly rebuild Linux kernel for Ultra96v1 and update documentation where necessary.
-
-#### Log
-
-* **Tuesday**:
-  * Got Vivado and PetaLinux 2019.2 set up on research computer.
-
-### Week 2: May 3, 2021
-
-#### Log
-
-* **Monday**:
-  * Read abstracts for the following theses:
-    * _Configuration Scrubbing Architectures for High-Reliability FPGA Systems_ - Aaron G. Stoddard
-    * _High Throughput FPGA Configuration Using a Custom DMA Configuration Controller_ - Peter W. Zabriskie
-    * _Neutron Beam Testing Methodology and Results for a Complex Programmable Multiprocessor SoC_ - Jordan D. Anderson
-
-### Week 1: April 26, 2021
-
-#### Log
-
-* **Monday**: 
-  * Met with Dr. Wirthlin to discuss project for the fall, as well as went to IMMERSE orientation meeting.
-* **Tuesday**: 
-  * Went through MPSoC notes that I wrote from last year.
-* **Wednesday**: 
-  * Got Ubuntu installed on new computer in graduate student office.
-* **Thursday**:
-  * Got more software installed on new computer to get ready to work.
-  * Got GitHub site up and running.
+<script>
+    let coll = document.getElementsByClassName("collapsible");
+    let i;
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", (e) => {
+            let content = e.target.nextElementSibling;
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+            }
+            else {
+                content.style.maxHeight = "500px";
+            }
+        });
+    }
+</script>
