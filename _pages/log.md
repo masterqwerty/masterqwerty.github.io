@@ -79,6 +79,7 @@ title: Work Log
     let i;
     for (i = 0; i < coll.length; i++) {
         coll[i].addEventListener("click", (e) => {
+            e.target.classList.toggle("active");
             let content = e.target.nextElementSibling;
             if (content.style.maxHeight) {
                 content.style.maxHeight = null;
