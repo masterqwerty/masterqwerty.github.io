@@ -2,6 +2,28 @@
 layout: default
 title: Work Log
 ---
+<h3 class="collapsible">Week 4: May 17, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+  <ul>
+    <li>Finish reading <em>Configuration Scrubbing Architectures for High-Reliability FPGA Systems</em></li>
+    <li>Start reading <em>High Throughput FPGA Configuration Using a Custom DMA Configuration Controller</em></li>
+    <li>Rebuild Linux kernel for Ultra96v1 and update the documentation.</li>
+  </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+    <ul>
+      <li><strong>Monday</strong>:
+        <ul>
+          <li>Successfully rebuilt linux kernel for Ultra96v1 and submitted some updates for the documentation in <strong>byuccl/DTRA-URA</strong> repo.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
 <h3 class="collapsible">Week 3: May 10, 2021</h3>
 <div class="content">
   <h5 class="collapsible">Goals</h5>
