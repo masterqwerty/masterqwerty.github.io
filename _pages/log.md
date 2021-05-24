@@ -15,6 +15,11 @@ title: Work Log
   <h5 class="collapsible">Log</h5>
   <div class="sub-content">
     <ul>
+      <li><strong>Monday:</strong>:
+        <ul>
+          <li>Finished reading <em>High Throughput FPGA Configuration Using a Custom DMA Configuraiton Controller</em></li>
+        </ul>
+      </li>
     </ul>
   </div>
 </div>
