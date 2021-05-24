@@ -18,6 +18,7 @@ title: Work Log
       <li><strong>Monday:</strong>:
         <ul>
           <li>Finished reading <em>High Throughput FPGA Configuration Using a Custom DMA Configuraiton Controller</em></li>
+          <li>Verified that basic linux kernel workds on Ultra96v1</li>
         </ul>
       </li>
     </ul>
