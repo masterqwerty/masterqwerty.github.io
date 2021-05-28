@@ -19,6 +19,7 @@ title: Work Log
         <ul>
           <li>Finished reading <em>High Throughput FPGA Configuration Using a Custom DMA Configuraiton Controller</em></li>
           <li>Verified that basic linux kernel workds on Ultra96v1</li>
+          <li>Built PCAP scrubber app and driver and got them working on the Ultra96v1.</li>
         </ul>
       </li>
     </ul>
