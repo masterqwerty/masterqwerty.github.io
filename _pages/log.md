@@ -2,6 +2,25 @@
 layout: default
 title: Work Log
 ---
+<h3 class="collapsible">Week 7: July 7, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+  <ul>
+    <li>Finish reading <em>Neutron Beam Testing Methodology and Results for a Complex Programmable Multiprocessor SoC</em></li>
+    <li>Build Linux Kernel for the Zed Board</li>
+  </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+  </div>
+</div>
+
+<h3 class="collapsible">Week 6: May 31, 2021</h3>
+<div class="content">
+  <em>Nothing from this week.</em>
+</div>
+
 <h3 class="collapsible">Week 5: May 24, 2021</h3>
 <div class="content">
   <h5 class="collapsible">Goals</h5>
