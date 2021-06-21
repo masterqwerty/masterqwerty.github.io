@@ -9,10 +9,17 @@ title: Work Log
   <ul>
     <li>Finish reading <em>Neutron Beam Testing Methodology and Results for a Complex Programmable Multiprocessor SoC</em></li>
     <li>Familiarize myself with the Zed Board</li>
+    <li>Go through 427 labs.</li>
   </ul>
   </div>
   <h5 class="collapsible">Log</h5>
   <div class="sub-content">
+  <ul>
+    <li><strong>Monday</strong>:
+      <li>Got PYNQ board for starting work on 427 labs.</li>
+      <li>Read some documentation on the Zedboard.</li>
+    </li>
+  </ul>
   </div>
 </div>
 
@@ -56,7 +63,7 @@ title: Work Log
   <h5 class="collapsible">Log</h5>
   <div class="sub-content">
     <ul>
-      <li><strong>Monday:</strong>:
+      <li><strong>Monday</strong>:
         <ul>
           <li>Finished reading <em>High Throughput FPGA Configuration Using a Custom DMA Configuraiton Controller</em></li>
           <li>Verified that basic linux kernel workds on Ultra96v1</li>
