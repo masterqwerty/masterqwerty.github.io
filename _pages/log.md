@@ -19,6 +19,9 @@ title: Work Log
       <li>Got PYNQ board for starting work on 427 labs.</li>
       <li>Read some documentation on the Zedboard.</li>
     </li>
+    <li><strong>Tuesday</strong>:
+      <li>Played around with the PYNQ board, and then found the correct website for the 427 labs.</li>
+    </li>
   </ul>
   </div>
 </div>
