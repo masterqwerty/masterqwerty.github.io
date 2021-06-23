@@ -21,6 +21,7 @@ title: Work Log
     </li>
     <li><strong>Tuesday</strong>:
       <li>Played around with the PYNQ board, and then found the correct website for the 427 labs.</li>
+      <li>Started work on 427 Lab 1.</li>
     </li>
   </ul>
   </div>
