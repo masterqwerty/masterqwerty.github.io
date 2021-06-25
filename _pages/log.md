@@ -23,6 +23,10 @@ title: Work Log
       <li>Played around with the PYNQ board, and then found the correct website for the 427 labs.</li>
       <li>Started work on 427 Lab 1.</li>
     </li>
+    <li><strong>Friday</strong>:
+      <li>Debugged the network issues I was having with the Pynq board.</li>
+      <li>Finished ECEn 427 Lab 1 and started working on Lab 2</li>
+    </li>
   </ul>
   </div>
 </div>
