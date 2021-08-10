@@ -2,6 +2,29 @@
 layout: default
 title: Work Log
 ---
+<h3 class="collapsible">Week of August 9, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+  <ul>
+    <li>Get more familiar with FPGA networking reliability repo</li>
+    <li>Attempt to get everything in that repo set up.</li>
+  </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+  <ul>
+    <li><strong>Tuesday</strong>:
+      <ul>
+        <li>Got Vivado 2018.2 installed.</li>
+        <li>Began going through the steps for building the reference switch onto NetFPGA.</li>
+      </ul>
+    </li>
+  </ul>
+  </div>
+</div>
+
+
 <h3 class="collapsible">Week 10: June 28, 2021</h3>
 <div class="content">
   <h5 class="collapsible">Goals</h5>
