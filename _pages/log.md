@@ -19,6 +19,14 @@ title: Work Log
         <li>Got Vivado 2018.2 installed.</li>
         <li>Began going through the steps for building the reference switch onto NetFPGA.</li>
       </ul>
+      <ul>
+        <li><strong>Thursday</strong>:
+          <ul>
+            <li>Figured out the issue Vivado and the xc7k325t part.</li>
+            <li>Started a build of the reference switch to be checked on Monday.</li>
+          </ul>
+        </li>
+      </ul>
     </li>
   </ul>
   </div>
