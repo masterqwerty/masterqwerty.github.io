@@ -2,6 +2,28 @@
 layout: default
 title: Work Log
 ---
+<h3 class="collapsible">Week of August 16, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+  <ul>
+    <li>Build the Reference Switch</li>
+    <li>Start work on building the Traffic Generator</li>
+  </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+  <ul>
+    <li><strong>Monday</strong>:
+      <ul>
+        <li>Verified that the reference switch generated a bitstream successfully.</li>
+        <li>Started work on debugging why Arch won't boot on the ZedBoard</li>
+      </ul>
+    </li>
+  </ul>
+  </div>
+</div>
+
 <h3 class="collapsible">Week of August 9, 2021</h3>
 <div class="content">
   <h5 class="collapsible">Goals</h5>
