@@ -21,6 +21,15 @@ title: Work Log
       </ul>
     </li>
   </ul>
+  <ul>
+    <li><strong>Tuesday</strong>:
+      <ul>
+        <li>Got Arch Linux booting on a different Zedboard, verifying that my problem before was indeed the broken flash.</li>
+        <li>Added a lot of clarifications and formatting updates to the documentation about setting up the traffic generator on the ZedBoard.</li>
+        <li>Started working through setting up the traffic generator on the ZedBoard.</li>
+      </ul>
+    </li>
+  </ul>
   </div>
 </div>
 
