@@ -2,6 +2,22 @@
 layout: default
 title: Work Log
 ---
+<h3 class="collapsible">Week of August 30, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+  <ul>
+    <li>Finish building traffic generator on the zed board</li>
+    <li>If there's time, look at network switch design for the zed board.</li>
+  </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+  <ul>
+  </ul>
+  </div>
+</div>
+
 <h3 class="collapsible">Week of August 16, 2021</h3>
 <div class="content">
   <h5 class="collapsible">Goals</h5>
