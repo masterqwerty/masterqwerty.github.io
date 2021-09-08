@@ -2,6 +2,27 @@
 layout: default
 title: Work Log
 ---
+<h3 class="collapsible">Week of September 6, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+  <ul>
+    <li>Verify that the traffic generator works properly</li>
+    <li>Understnad better how the traffic generator works</li>
+  </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+  <ul>
+    <li><strong>Monday</strong>:
+      <ul>
+        <li>Got necessary boards for testing the traffic generator from Dr. Wirthlin</li>
+        <li>Started looking into the code for the traffic generator.</li>
+      </ul>
+    </li>
+  </div>
+</div>
+
 <h3 class="collapsible">Week of August 30, 2021</h3>
 <div class="content">
   <h5 class="collapsible">Goals</h5>
@@ -18,6 +39,12 @@ title: Work Log
       <ul>
         <li>Finished building the traffic generator for the ZedBoard.</li>
         <li>Updated a lot of the documentation in <strong>fpga-networking-reliability</strong> to reflect all the problems I ran into when going through the building process.</li>
+      </ul>
+    </li>
+    <li><strong>Wednesday</strong>:
+      <ul>
+        <li>Read up on the Ethernet FMC boards a little bit</li>
+        <li>Looked at the switch design for the NetFPGA</li>
       </ul>
     </li>
   </ul>
