@@ -2,13 +2,40 @@
 layout: default
 title: Work Log
 ---
+<h3 class="collapsible">Week of September 13, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+  <ul>
+    <li>Validate traffic generator with wireshark.</li>
+    <li>Read up on Xilinx TEMAC IP core.</li>
+  </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+  <ul>
+    <li><strong>Monday</strong>:
+      <ul>
+        <li>Looked a little more into the code for the traffic generator.</li>
+        <li>Tried figuring out how to program the NetFPGA board with the bit file I generated.</li>
+      </ul>
+  </ul>
+  <ul>
+    <li><strong>Wednesday</strong>:
+      <ul>
+        <li>Using wireshark, got a packet capture of traffic from one of the traffic generator ethernet ports. Validated that tons of TCP packets were being sent.</li>
+      </ul>
+    </li>
+  </div>
+</div>
+
 <h3 class="collapsible">Week of September 6, 2021</h3>
 <div class="content">
   <h5 class="collapsible">Goals</h5>
   <div class="sub-content">
   <ul>
     <li>Verify that the traffic generator works properly</li>
-    <li>Understnad better how the traffic generator works</li>
+    <li>Understand better how the traffic generator works</li>
   </ul>
   </div>
   <h5 class="collapsible">Log</h5>
