@@ -2,6 +2,28 @@
 layout: default
 title: Work Log
 ---
+
+<h3 class="collapsible">Week of September 27, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+  <ul>
+    <li>Validate traffic generator with wireshark.</li>
+  </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+  <ul>
+    <li><strong>Monday</strong>:
+      <ul>
+        <li>Looked at code for traffic generator, and verified that the packets it's generating are being sent by the ZedBoard.</li>
+      </ul>
+    </li>
+  </ul>
+  </div>
+</div>
+
+
 <h3 class="collapsible">Week of September 13, 2021</h3>
 <div class="content">
   <h5 class="collapsible">Goals</h5>
@@ -26,6 +48,7 @@ title: Work Log
         <li>Using wireshark, got a packet capture of traffic from one of the traffic generator ethernet ports. Validated that tons of TCP packets were being sent.</li>
       </ul>
     </li>
+  </ul>
   </div>
 </div>
 
@@ -47,6 +70,7 @@ title: Work Log
         <li>Started looking into the code for the traffic generator.</li>
       </ul>
     </li>
+  </ul>
   </div>
 </div>
 
