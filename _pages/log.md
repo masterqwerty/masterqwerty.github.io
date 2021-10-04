@@ -3,6 +3,28 @@ layout: default
 title: Work Log
 ---
 
+<h3 class="collapsible">Week of October 4, 2021</h3>
+<div class="content">
+  <h5 class="collapsible">Goals</h5>
+  <div class="sub-content">
+  <ul>
+    <li>Learn how the Traffic Generator Hardware works.</li>
+    <li>Begin learning how the NetFPGA switch works.</li>
+    <li>Possibly start a rough design of a reference switch.</li>
+  </ul>
+  </div>
+  <h5 class="collapsible">Log</h5>
+  <div class="sub-content">
+  <ul>
+    <li><strong>Monday</strong>:
+      <ul>
+        <li>Updated documentation in GitHub repo to have a link to the repo that the traffic generator design is based on.</li>
+      </ul>
+    </li>
+  </ul>
+  </div>
+</div>
+
 <h3 class="collapsible">Week of September 27, 2021</h3>
 <div class="content">
   <h5 class="collapsible">Goals</h5>
