@@ -41,6 +41,7 @@ title: Work Log
         <li>Looked a little more into the code for the traffic generator.</li>
         <li>Tried figuring out how to program the NetFPGA board with the bit file I generated.</li>
       </ul>
+    </li>
     <li><strong>Wednesday</strong>:
       <ul>
         <li>Using wireshark, got a packet capture of traffic from one of the traffic generator ethernet ports. Validated that tons of TCP packets were being sent.</li>
