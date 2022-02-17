@@ -8,3 +8,5 @@ title: Research Log
 * Goals
   * Re-read thesis by Hayden on the reliability testing platform for FPGA-based network systems.
   * Come up with three possible research questions to discuss with Dr. Wirthlin
+* Log
+  * *(Thu)* Finished re-reading thesis by Hayden on the reliability testing platform for FPGA-based network systems, and came up with a few possible research questions.
