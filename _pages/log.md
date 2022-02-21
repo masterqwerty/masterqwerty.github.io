@@ -20,3 +20,4 @@ title: Research Log
   * *(Thu)* Finished re-reading thesis by Hayden on the reliability testing platform for FPGA-based network systems, and came up with a few possible research questions.
   * *(Fri)* Brainstormed to come up with a few more possible research questions.
   * *(Sun)* Looked at traffic generator HLS cores to understand them better.
+  * *(Sun)* Consolidated research notes into a single notebook for better accessibility.
