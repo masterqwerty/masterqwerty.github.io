@@ -7,6 +7,8 @@ title: Research Log
 
 * Goals
   * Understand the C++ code for the HLS cores in the traffic generator.
+  * Become more familiar with how to create HLS cores. (Modify an HLS core in the traffic generator to verify understanding.)
+  * Find other papers to read on network reliability to become more familiar with the research done and to be done in this field.
 
 **Week of 14 Feb 2022**
 
